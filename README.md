@@ -11,6 +11,7 @@ This app was built for those who find they remember tasks best when they can jus
 ## ☁️ Use Deployed App
 
 Find the link to the working site here: https://dispatched2.onrender.com/
+*note: logins and messages is held on SQLite. Nothing used in the app can be considered secure*
 
 ---
 
